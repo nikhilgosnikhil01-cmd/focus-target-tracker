@@ -1,0 +1,14 @@
+{
+  "id": "./",
+  "name": "Focus — My Target Tracker",
+  "short_name": "Focus Tracker",
+  "description": "Daily, weekly and monthly goals with a focus timer.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f5fa",
+  "theme_color": "#101d42",
+  "icons": [
+    { "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
